@@ -25,7 +25,7 @@ SECRET_KEY = 'u0g29_bjp)+f$c(lp-i@2&w=kdv@4kj+vxx7^*46bi7re$e7!p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["testappmongo.herokuapp.com", "localhost"]
 
 
 # Application definition
